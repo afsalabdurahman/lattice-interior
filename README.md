@@ -13,7 +13,7 @@ Welcome to our **Interior Designers** website! We specialize in creating stunnin
 
 Here are some of the latest designs we've worked on:
 
-![Portfolio Image 1](images/portfolio1.jpg)
+![Portfolio Image 1](images/LATTICE-INTERIOR-03-10-2025_06_34_PM.png)
 *Modern Living Room Design*
 
 ![Portfolio Image 2](images/portfolio2.jpg)
